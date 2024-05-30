@@ -1,6 +1,4 @@
-## Course 3 content
-
-### **Find and share stories using data**
+# Course 3 content
 
 ##### Exploratory data analysis (EDA)
 
@@ -9,7 +7,9 @@
 > characteristics, often employing data
 > wrangling and visualization methods_**
 
-**EDA involves six key practices: DSCJVP**
+### **Find and share stories using data**
+
+#### **EDA involves six key practices: DSCJVP**
 
 - Discovering: Familiarizing yourself with the data and asking questions about it.
 - Structuring: Organizing and transforming raw data for easier visualization, explanation, or modeling.
@@ -19,6 +19,20 @@
 - Presenting: Sharing the cleaned data set or data visualizations with others for further analysis or modeling.
 
 ### **Explore raw data**
+
+[Dataframe API](https://pandas.pydata.org/docs/reference/frame.html)
+
+- Understanding the data source is crucial: This helps you determine the reliability of the data and who to contact if you have questions.
+- Knowing the data source, format, and type helps you answer two key questions: Does the data align with the project plan? Do you have enough data to follow through with the plan?
+
+**Types of Data**
+
+- First-party data
+  Data that was gathered from inside your own organization
+- Second-party data
+  Data that was gathered outside your organization but directly from the original source
+- Third-party data
+  Data gathered outside your organization and aggregated
 
 ### **Clean your data**
 
